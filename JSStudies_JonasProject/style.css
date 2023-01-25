@@ -1,0 +1,160 @@
+
+body {
+    background-image: url("images/WiC5.gif");
+}
+
+*{
+    text-align: center;
+    margin: auto auto;
+    padding: 5px;
+}
+
+.header {
+    width: 500px;
+    padding: 10px;
+    outline: outset thick HotPink;
+}
+
+p {
+    font-family: Courier New;
+}
+
+td:nth-child(even), th:nth-child(odd) {
+    background-color: #D6EEEE
+}
+
+
+#anid {
+    text-shadow: 2px 2px 5px HotPink;
+    font-family: 'Brush Script MT', cursive;
+}
+
+.firstclass {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    overflow-x: auto;
+    color: HotPink;
+}
+
+
+.forg {
+    height: 355px;
+    width: auto;
+    background-image: url("images/giphy.gif");
+    font-family: Georgia;
+}
+
+.firsth4elements {
+    font-family: Papyrus;
+    margin-bottom: 40px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+h6 {
+    margin-top: 5px;
+}
+
+h4.ex1 {
+    margin-top: auto;
+    margin-bottom: 10px;
+}
+
+h4.ex2 {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.secondh4elements {
+    font-family: Copperplate;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+h4.ex3 {
+    margin-top: 2%
+}
+
+h4.ex4 {
+    margin-top: inherit;
+}
+
+
+/* This is a comment */
+/* These are link stuff */
+
+a:link, a:visited {
+    background-color: MediumVioletRed;
+    color: Black;
+    padding: 5px
+    text-align: center;
+    display: inline-block;
+    text-shadow: 0 0 3px #FFFFFF;
+    cursor: crosshair;
+}
+
+a:hover, a:active {
+    background-color: LawnGreen;
+    cursor: crosshair;
+}
+
+/* what is done within position boxes is done to the whole box, not only the text */
+div.relative {
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 5px dotted HotPink;
+}
+
+div.absolute {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: dotted 5px HotPink;
+}
+
+div.rosalia {
+    position: -webkit-sticky;
+    position: sticky;
+    margin-top: 10px;
+    width: 500px;
+    top: 0;
+    padding: 5px;
+    background-color: Aquamarine;
+    border: 2px dotted CornflowerBlue;
+}
+div.rosalyrics {
+    padding: 5px 5px 1px;
+    width: 500px;
+    height: 300px;
+    overflow-x: scroll;
+    background: rgba(255, 255, 255, 0.8);
+    border: 2px dotted CornflowerBlue;
+}
+img {
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
+
+/*/*    font family is a property that gets inherited
+  all of the child elements from the body elements
+  will get the property assigned to them as well.
+  setting this on the {body} will make it that all properties
+  related to font will inherit */
+/*body element selector means that this will affect body*/
+
+
+    /*border is not inherited*/
+
+
+/*    h2 is the child element of your-name and this way
+you can change only this element inside of your name*/
