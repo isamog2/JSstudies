@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b87ff38-62da-4897-9735-f9ec6a685362" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/JSON/HttpRequest.js" beforeDir="false" afterPath="$PROJECT_DIR$/JSON/HttpRequest.js" afterDir="false" />
-    </list>
+    <list default="true" id="4b87ff38-62da-4897-9735-f9ec6a685362" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
