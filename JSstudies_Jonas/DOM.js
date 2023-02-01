@@ -13,8 +13,8 @@
 // Document is a special object that we have access to in javascript
 // this object works as an entry point into the DOM
 
-document.querySelector()
-//querySelector method is avaiable on document object
+document.querySelector() //selects and element from a page
+//querySelector method is available on document object
 //this is why we say document is the entry point to the DOM
 //because we need it to start selecting elements
 
@@ -28,3 +28,9 @@ document.querySelector()
 
 //<html> is usually the root element in all html documents
 //it has two child elements <head> <body> they are a JSON element
+
+//with dom manipualtion you can get the nodes from the DOM tree on your js and edit it
+//ex: use querySelector to select an element from a html page and edit with js
+
+
+//head and body are JSON elements and they are siblings

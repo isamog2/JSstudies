@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b87ff38-62da-4897-9735-f9ec6a685362" name="Changes" comment="" />
+    <list default="true" id="4b87ff38-62da-4897-9735-f9ec6a685362" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JSStudies_JonasProject/countTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSstudies_Jonas/eventListener.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/images/How to Run Successful LinkedIn Ads.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JSStudies_JonasProject/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/.bin/prettier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/.package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/bin-prettier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/doc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/esm/parser-angular.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/esm/parser-babel.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/esm/parser-espree.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/esm/parser-flow.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/esm/parser-glimmer.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/esm/parser-graphql.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/esm/parser-html.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/esm/parser-markdown.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/esm/parser-meriyah.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/esm/parser-postcss.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/esm/parser-typescript.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/esm/parser-yaml.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/esm/standalone.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/parser-angular.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/parser-babel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/parser-espree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/parser-flow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/parser-glimmer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/parser-graphql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/parser-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/parser-markdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/parser-meriyah.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/parser-postcss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/parser-typescript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/parser-yaml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/standalone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/node_modules/prettier/third-party.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/JSStudies_JonasProject/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/JSStudies_JonasProject/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSstudies_Jonas/DOM.js" beforeDir="false" afterPath="$PROJECT_DIR$/JSstudies_Jonas/DOM.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +98,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JSStudies_JonasProject" />
       <recent name="$PROJECT_DIR$/pwc" />
       <recent name="$PROJECT_DIR$/pwc" />
     </key>
@@ -116,6 +162,7 @@
       <workItem from="1674662535828" duration="973000" />
       <workItem from="1674663514913" duration="452000" />
       <workItem from="1674719706635" duration="96000" />
+      <workItem from="1675072038147" duration="27237000" />
     </task>
     <task id="LOCAL-00001" summary="added stuff">
       <created>1674657451413</created>
