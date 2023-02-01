@@ -1,22 +1,32 @@
 <!DOCTYPE Html>
-<html lang=PT>
+<html lang="en">
 <head>
+  <meta charset="UTF-8" />
   <title> That's my page </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <link rel="icon" type="image/x-icon" href="images/isa.ico" />
   <link rel="stylesheet" href="style.css"/>
-<!--link is not <a> and it doesnt generate clickable links
-its meant to link css files to html files-->
+  <!--link is not <a> and it doesn't generate clickable links
+  its meant to link css files to html files-->
 </head>
 <body>
 
 <div class="header">
   <h1 id="anid"> CSS simple Id selector title </h1>
   <p> This paragraph font was defined with a CSS simple name selector </p>
+
 </div>
 
-<br>
 
-<div class="forg">This div element has a height of 355px and a background horizontal repeat.</div>
+<p class="label-score"> Score: <span class="score">0</span></p>
+<br>
+<main>
+  <div class="forg">
+    <div class ="result"><h2>Guess my age!</h2></div>
+    <input type ="number" class="guess">
+    <button class="btn check">Check!</button>
+  </div>
 
 <table class="firstclass">
   <tr>
@@ -31,11 +41,11 @@ its meant to link css files to html files-->
     <td> Some content </td>
     <td> Some more content </td>
     <td> Yep thats coooooontent again </td>
-    <td style="font-family:Papyrus;"> Cooooonteeeeeenttt </td>
+    <td style="font-family: Papyrus,cursive;"> Cooooonteeeeeenttt </td>
     <td> And here goes the last content </td>
     <td> It was nooooot the last. Nooooooow thaaaaaats the reeeeeal laaaast </td>
   </tr>
-  <br>
+
 </table>
 
 <br>
@@ -46,15 +56,14 @@ its meant to link css files to html files-->
   <h4 class="ex2" > This h4 element uses margin-top with a length in px value. </h4>
 </div>
 
-<a href="default.asp" targ="_blank"> You can possibly click here if you want to, because this is a link with a hover!! </a>
+<a href="default.asp" tag="_blank"> You can possibly click here if you want to, because this is a link with a hover!! </a>
 
 <br> <br>
 <div class="relative">
 
-  <img src="images/spinning_frog.gif">
+  <img src="images/spinning_frog.gif" alt="frog spins">
   <h6> This div element has position: relative;</h6>
-  <div class="absolute"> <h6 style="margin-top: 5px;"> This div element has position: absolute;</div>
-  </h6>
+  <div class="absolute"> <h6 style="margin-top: 5px;"> This div element has position: absolute; </h6></div>
 </div>
 
 <br>
@@ -63,14 +72,14 @@ its meant to link css files to html files-->
 
   <p> <span style="font-weight:bold;"> This div right here has a lot of text </span> <br>
     just so it enables a scrollbar and you can see the top element is sticking to it's place.
-    <br> <span style="font-style:italic;">This div also uses a scroll overflow. Instead of a Lorem Ipsum, I'm gonna add the lyrics to Despechá by Rosalia right here:</span>
+    <br> <span style="font-style:italic;">This div also uses a scroll overflow.
+      Instead of a Lorem Ipsum, I'm gonna add the lyrics to Despechá by Rosalia right here:</span>
   </p>
 
-  <p> Baby, no me llame'que yo estoy ocupá' olvidando tus male'. Ya decidí que esta noche se sale con toda' mis motomami', con toda' mis gyale'. Y ando despechá', oah, alocá' </p>
-  <p> Bajé con un flow nuevo de caja, baby, hackeá'. Lo muevo de la'o a la'o y a otro la'o, goy salgo con mi baby de la disco coroná' </p>
-  <p> Y ando despechá', oah, alocá' que Dios me libre de volver a tu la'o. Lo muevo de la'o a la'o y a otro la'o. Hoy salgo con mi baby de la disco coroná', coroná', yeah </p>
-  <p> Voy con la falda (ah), aro' y cadena' (eh). Piña colada (sí), no tengo pena (no). 'Toy con la Fefa (wuh), ella es la jefa (sí) ella lo baila (yeh), ella me enseña (yeh). Hoy no trabaja (uh) esta morena (no) </p>
-
+  <p class="message"> Baby, no me llame'que yo estoy ocupá' olvidando tus male'. Ya decidí que esta noche se sale con toda' mis motomami', con toda' mis gyale'. Y ando despechá', oah, alocá'
+    Bajé con un flow nuevo de caja, baby, hackeá'. Lo muevo de la'o a la'o y a otro la'o, goy salgo con mi baby de la disco coroná'
+    Y ando despechá', oah, alocá' que Dios me libre de volver a tu la'o. Lo muevo de la'o a la'o y a otro la'o. Hoy salgo con mi baby de la disco coroná', coroná', yeah
+    Voy con la falda (ah), aro' y cadena' (eh). Piña colada (sí), no tengo pena (no). 'Toy con la Fefa (wuh), ella es la jefa (sí) ella lo baila (yeh), ella me enseña (yeh). Hoy no trabaja (uh) esta morena (no) </p>
 
 </div>
 
@@ -80,4 +89,8 @@ its meant to link css files to html files-->
 
   <h4 class="ex4"> This h4 element inherits the margin-top from the parent div </h4>
 
+</div>
+<script src="countTest.js"> </script>
+</main>
 </body>
+</html>
