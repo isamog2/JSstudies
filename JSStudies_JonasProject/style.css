@@ -15,10 +15,6 @@ body {
     outline: outset thick HotPink;
 }
 
-p {
-    font-family: Courier New;
-}
-
 td:nth-child(even), th:nth-child(odd) {
     background-color: #D6EEEE
 }
@@ -173,6 +169,7 @@ img {
 }
 .label-score {
     margin-bottom: 2rem;
+    font-family: Courier New;
 }
 .guess {
     background: none;
