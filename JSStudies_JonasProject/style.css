@@ -108,6 +108,10 @@ div.absolute {
     border: dotted 5px HotPink;
 }
 
+.captionFrog {
+    margin-top: 155px;
+}
+
 div.rosalia {
     position: -webkit-sticky;
     position: sticky;
@@ -167,9 +171,9 @@ img {
     left: 50%;
     transform: translate(-50%, 50%);
 }
-.label-score {
-    margin-bottom: 2rem;
-    font-family: Courier New;
+p {
+    font-family: "Courier New";
+    background-color: white;
 }
 .guess {
     background: none;

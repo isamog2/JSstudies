@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4b87ff38-62da-4897-9735-f9ec6a685362" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JSStudies_JonasProject/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSStudies_JonasProject/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/JSStudies_JonasProject/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +123,7 @@
       <workItem from="1674719706635" duration="96000" />
       <workItem from="1675072038147" duration="27410000" />
       <workItem from="1675329490546" duration="2091000" />
-      <workItem from="1677596944554" duration="5902000" />
+      <workItem from="1677596944554" duration="6790000" />
     </task>
     <task id="LOCAL-00001" summary="added stuff">
       <created>1674657451413</created>
