@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b87ff38-62da-4897-9735-f9ec6a685362" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JSstudies_Jonas/engine.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4b87ff38-62da-4897-9735-f9ec6a685362" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +125,7 @@
       <workItem from="1675329490546" duration="2091000" />
       <workItem from="1677596944554" duration="9622000" />
       <workItem from="1678283719472" duration="9773000" />
-      <workItem from="1678357008081" duration="1015000" />
+      <workItem from="1678357008081" duration="1324000" />
     </task>
     <task id="LOCAL-00001" summary="added stuff">
       <created>1674657451413</created>
