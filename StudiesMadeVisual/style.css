@@ -1,0 +1,40 @@
+
+body {
+    background-image: url("images/WiC5.gif");
+}
+
+*{
+    text-align: center;
+    margin: auto auto;
+    padding: 5px;
+}
+
+.Title {
+    width: 500px;
+    padding: 10px;
+    outline: outset thick HotPink;
+}
+
+.Engine {
+
+}
+
+.HeapAndCallStack {
+
+}
+
+.Definitions {
+
+}
+
+.Compilation {
+
+}
+
+.Interpretation {
+
+}
+
+.JITCompilation {
+
+}
